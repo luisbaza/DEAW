@@ -1,5 +1,5 @@
 # DEAW
 | NOMBRE  | GITHUB |
 | ------------- | ------------- |
-| alber-9  | [EnlaceAlberto] (https://https://github.com/k3yof)  |
-| k3yof  | [EnlaceManu] (https://https://github.com/alber-9)  |
+| alber-9  | https://https://github.com/k3yof  |
+| k3yof  | https://https://github.com/alber-9  |
