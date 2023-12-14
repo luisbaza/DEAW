@@ -1,2 +1,5 @@
 # DEAW
-Soy el readme del proyecto DEAW para el modulo de despliegue
+| NOMBRE  | GITHUB |
+| ------------- | ------------- |
+| alber-9  | [EnlaceAlberto] (https://https://github.com/k3yof)  |
+| k3yof  | [EnlaceManu] (https://https://github.com/alber-9)  |
